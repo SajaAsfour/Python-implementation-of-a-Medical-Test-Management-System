@@ -1,0 +1,14 @@
+1300520: Hgb, 2018-05-4 04:40, 150, g/dl, pending
+1300520: systole, 2009-07-4 04:40, 150, mm Hg, completed, 2024-8-21 15:30
+1210444: systole, 2024-03-01 05:20, 13.5, mm Hg, Reviewed
+1210444: diastole, 2000-06-01 05:20, 13.5, mg/dL, completed, 2009-03-01 05:30
+1210444: LDL, 2010-10-11 6:09, 20, mg/dl, Pending
+1210737: LDL, 2008-08-22 8:06, 130, mg/dL, Completed, 2016-08-22 8:10
+1210737: Hgb, 2024-01-10 3:30, 15, g/dl, Pending
+1210737: systole, 2020-10-09 5:09, 15, mm Hg, Reviewed
+1300511: diastole, 2024-04-2 07:30, 110, mm Hg, pending
+1300511: LDL, 2020-10-03 3:09, 500, mg/dL, Reviewed
+1300511: BGT, 2014-09-2 07:30, 110.9, mg/dL, Reviewed
+1300511: BGT, 2024-01-12 14:10, 80, mg/dL, completed, 2011-01-01 7:54
+1234567: LSL, 2024-08-23 3:43, 90, l/s, Reviewed
+1234567: LDL, 2024-08-22 12:00, 18.5, g/l, Completed, 2024-08-23 3:46

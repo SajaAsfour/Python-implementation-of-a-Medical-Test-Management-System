@@ -1,0 +1,6 @@
+Name: Hgb; Range: > 13.8, < 17.2; Unit: g/dL; 00-03-05
+Name: BGT; Range: > 70, < 99; Unit: mg/dL; 00-12-06
+Name: LDL; Range: < 100; Unit: mg/dL; 00-17-06
+Name: systole; Range: > , < 120; Unit: mm Hg; 00-08-04
+Name: diastole; Range: > , < 80; Unit: mm Hg; 00-10-00
+Name: LSL; Range: > 100, < 150; Unit: l/s; 00-10-01
